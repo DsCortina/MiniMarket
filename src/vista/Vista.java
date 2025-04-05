@@ -28,7 +28,7 @@ public class Vista {
         DtoFactura dtoFactura;
         String fecha = MyController.fecha();
 
-        System.out.println(" - - - - LOGIN - - - - ");
+        System.out.println(" - - - = LOGIN = - - - ");
         System.out.print("Correo: ");
         String correoLogin = sc.nextLine();
         System.out.print("Clave: ");
